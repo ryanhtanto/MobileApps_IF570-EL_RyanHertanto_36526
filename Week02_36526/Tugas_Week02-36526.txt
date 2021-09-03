@@ -1,0 +1,23 @@
+1. Lakukan pengujian terhadap app anda dengan skenario di bawah ini:
+a. Kosongkan Angka 1 dan Angka 2, lalu klik salah satu button
+   Aplikasi mengalami crash (force stop)
+b. Kosongkan Angka 2, lalu klik button Bagi.
+   Aplikasi juga mengalami crash(force stop)
+c. Isi 0 (nol) pada Angka 2, lalu klik button Bagi.
+   Terlihat hasil infinity
+Pada bagian A dan B apliasi mengalami crash dikarenakan aplikasi mendeteksi bahwa terdapat string kosong pada
+salah satu input, maka [program tidak dapat menemukan string sehingga aplikasi dipaksa untuk berhenti, hal itu dikarenakan tidak adanya
+exception pada program saat pengcodingan. Solusi yang bisa diberikan adalah memberikan NumberFormatException
+kepada program agar ketika salah satu input kosong, maka rogram akan berjalan dan mengeluarkan peringatan
+bahwa input kosong dan aplikasi tidak perlu ditutup. 
+
+Sedangkan pada bagian C ketika input angka 1 memiliki angka dan input 2 hanya angka 0, program akan memunculkan infinity
+yang dikarenakan program membacanya dengan baik dan dapat membaginya sesuai dengan fungsi yang diberikan
+
+
+2. Lakukan debugging pada program anda dengan meletakkan dua breakpoint bebas letaknya.
+Saya meletakkan breakpoint pada dua baris code, yaitu 
+   double operand1 = Double.parseDouble(angka1.getText().toString());
+   double operand2 = Double.parseDouble(angka2.getText().toString());
+hal yang terjadi adalah program terhenti pada baris tersebut, dan ketika input dijalankan
+program tidak akan menerima apapun, dikarenakan program tidak akan dibaca
