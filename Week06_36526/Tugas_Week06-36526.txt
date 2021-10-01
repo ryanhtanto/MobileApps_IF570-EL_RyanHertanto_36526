@@ -1,0 +1,22 @@
+Pada pertemuan kali ini terdiri dari 3 jenis aplikasi, berikut adalah kesimpulan masing-masing aplikasi :
+
+Week06A_36526:
+Aplikasi ini bertugas untuk membuat objek lingkaran yang berwarna hijau pada saat ditekan/ditap. 
+Aplikasi ini berjalan dengan baik dan lancar, pengaplikasian aplikasi ini terdapat pada permainan game mobile yaitu Push The Ant, dimana
+dap[at memberikan animasi ketika semut ditekan.
+
+Week06B_36526
+Aplikasi ini bertugas untuk membuat animasi penunggang kuda yang terdiri dari beberapa assets gambar kuda. 
+Aplikasi ini juga berjalan dengan baik. Pengaplikasian aplikasi ini sangat berguna untuk membuat animasi ketika proses
+loading agar memberi kesan yang menarik kepada aplikasi.
+
+Week06C_36526
+Aplikasi ini ditugaskan untuk membuat animasi pada tombol button. Teridiri dari dua jenis animasi button, yaitu Spring dan Fling.
+Animasi pada button berjalan dengan lancar. animasi button ini biasanya jarang terlihat pada pengimplementasian aplikasi.
+Namun, animasi button ini mungkin dapat digunakan sebagai salah satu fitur tambahan pada animasi, seperti pada aplikasi tokopedia terdapat hadiah berbentuk telur,
+pada saat proses pemecahan telur mungkin bida diberi animasi agar lebih menarik
+
+Kesimpulan akhir pengerjaan:
+Pada tugas kali ini dapat diketahui bahwa pada android studio kita bisa
+membuat animasi. Terdapat berbagai macam cara cara pembuatan aplikasi, yaitu dapat memakai function yang disediakan oleh android studio,
+gif animation dan touch(OnClick) animation.
