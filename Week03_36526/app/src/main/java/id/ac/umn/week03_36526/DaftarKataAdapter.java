@@ -33,7 +33,6 @@ public class DaftarKataAdapter extends RecyclerView.Adapter<DaftarKataAdapter.Ka
         return mDaftarKata.size();
     }
 
-
     class KataViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener{
         public final TextView kataItemView;
         final DaftarKataAdapter mAdapter;

@@ -20,4 +20,10 @@ Saya meletakkan breakpoint pada dua baris code, yaitu
    double operand1 = Double.parseDouble(angka1.getText().toString());
    double operand2 = Double.parseDouble(angka2.getText().toString());
 hal yang terjadi adalah program terhenti pada baris tersebut, dan ketika input dijalankan
-program tidak akan menerima apapun, dikarenakan program tidak akan dibaca
+program tidak akan menerima apaun, dikarenakan program tidak akan dibaca
+
+Kemudian pada langkah :
+Step-over  : 
+step-into  :
+step-out   :
+resume     : Pada debugger tertukis 
