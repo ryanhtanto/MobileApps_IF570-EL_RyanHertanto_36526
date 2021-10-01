@@ -1,0 +1,21 @@
+Percobaan kali ini terdapat 2 jenis aplikasi, 
+
+Aplikasi Week04a_36526:
+Pada aplikasi ini kita akan mencoba aplikasi Intent. Terdapat dua jenis intent, yaitu eksplisit intent dan implisit intent
+Eksplisit intent terdapat pada button kirim. Button kirim ini berfungsi sebagai pengirim pesan ke activity lain dan juga terdapat button balas,
+dimana button ini akan mengembalikan data kepada activity pertama tadi.
+
+Terdapat juga implisit intent yang terletak pada button browse. Ketika button browse ditekan, maka button ini akan menuju halaman website yang sebelumnya sudah
+terdapat pada input link disebelahnya, namun jika tidak ada input, maka akan secara default ke website umn.ac.id.
+
+Kesimpulan aplikasi Week04a_36526:
+Pada aplikasi ini kita mempelajari jenis-jenis intent pada android. Intent ini akan sangat berguna untuk memindahkan activity atau meminta bantuan aplikasi lain.
+Intent ini dapat dikunjungi hampir disemua aplikasi, dan sangat kecil kemungkinan bahwa aplikasi tidak memakai intent (baik eksplisit inten maupun implisit intent)
+
+Aplikasi Week04b_36526:
+Pada aplikasi ini kita akan mempelajari fragment. Fragment berfungsi ketika terjadi user input, dan akan ada perubahan yang sebelumnya default tergantikan
+fragment yang sudah di atur.
+
+Kesimpulan aplikasi Week04b_36526:
+Fragment merupakan bagian UI aplikasi Anda yang dapat digunakan kembali. Sehingga pada pengaplikasian nya fragment ini akan sangat berguna, 
+agar pada saat pemorsesan pemorograman hanya perlu memanggil fragment saja.
