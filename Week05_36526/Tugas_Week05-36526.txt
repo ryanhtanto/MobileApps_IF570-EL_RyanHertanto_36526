@@ -1,0 +1,3 @@
+Hasil Kesimpulan percobaan aplikasi: 
+Aplikasi pada pertemuan kali ini adalah aplikasi untuk mengeluatkan bentuk serta memberikan warna kepada bentuk melalui input radio button yang tersedia. Terdapat juga icon X 
+untuk menghapus gambar di pojok kiri atas. Pada percobaan kali ini juga aplikasi berjalan dengan baik dan tidak mengalami gangguan. Hasil sesuai dengan yang diharapkan
