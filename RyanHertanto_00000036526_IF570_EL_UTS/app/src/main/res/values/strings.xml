@@ -1,0 +1,5 @@
+<resources>
+    <string name="profile_app_name">Profile</string>
+    <string name="app_name">Music App</string>
+    <string name="login_hint">Masukkan Nama anda</string>
+</resources>
